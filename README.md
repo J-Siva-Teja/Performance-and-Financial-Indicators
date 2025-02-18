@@ -12,3 +12,11 @@ Profitability Ratios: (e.g.,Net Profit Margin) - These show how effectively a co
 Liquidity Ratios: (e.g., Current Ratio) - These assess the company's ability to meet its short-term obligations.
 Solvency Ratios: (e.g., Gearing Ratio) - These indicate the company's long-term financial stability and its ability to meet its long-term obligations.
 Efficiency Ratios: (e.g., Inventory Turnover, Accounts Receivable Turnover) - These measure how efficiently a company manages its assets.
+
+![Dashboard 2](https://github.com/user-attachments/assets/f3a4a1af-77fb-4fae-ba0a-2ff7cf3eb9aa)
+
+![Dashboard 1](https://github.com/user-attachments/assets/8e1da7fe-7f45-43ce-831f-329b03769cab)
+
+
+
+
